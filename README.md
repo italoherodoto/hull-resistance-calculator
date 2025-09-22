@@ -25,7 +25,7 @@ Esta calculadora foi desenvolvida de forma independente, implementando métodos 
 ### Instalação das Dependências
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/hull-resistance-calculator.git
+git clone https://github.com/italoherodoto/hull-resistance-calculator.git
 
 # Acesse o diretório
 cd hull-resistance-calculator
@@ -165,7 +165,7 @@ This calculator was independently developed, implementing empirical methods for 
 ### Installing Dependencies
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/hull-resistance-calculator.git
+git clone https://github.com/italoherodoto/hull-resistance-calculator.git
 
 # Access the directory
 cd hull-resistance-calculator
